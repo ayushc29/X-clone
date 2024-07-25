@@ -1,4 +1,5 @@
 ## X Clone made only using Tailwind CSS
+- Preview at https://ayushc29.github.io/X-clone/
 
 ## Setting up Tailwind CSS
 
